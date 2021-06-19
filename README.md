@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jason</h1>
+<h2 align="center">Hi, I'm Jason</h1>
 - 🌱 I’m currently learning Web Development
 
 <h3 align="left">Connect with me:</h3>
